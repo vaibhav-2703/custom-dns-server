@@ -1,4 +1,4 @@
-<h2 id="🌐-custom-dns-server">🌐 Custom DNS Server</h2>
+<h1 id="🌐-custom-dns-server">🌐 Custom DNS Server</h1>
 <p>A sleek and efficient Python-based DNS server. It resolves custom domains, supports multiple DNS record types, and forwards unresolved queries to an upstream server. Perfect for testing, learning, or lightweight usage.</p>
 <h2 id="🚀-features">🚀 Features</h2>
 <ul>
